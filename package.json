@@ -1,4 +1,5 @@
 {
+  "homepage": "https://nicolasarevalo.github.io/lazy-imgs",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
